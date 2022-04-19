@@ -4,8 +4,8 @@ Experimental results and results for the [paper](https://arxiv.org/) to appear a
 
 # Zero-Shot results
 1- Hypothesis definition
-* English-hypotheses.md
-* Spanish-hypotheses.md
+* [English hypotheses](English-hypotheses.md)
+* [Spanish hypotheses](Spanish-hypotheses.md)
 
 2- Zero-shot results
 [Hyp_ZS_results_author_profiling.pdf](Hyp_ZS_results_author_profiling.pdf)
