@@ -2,4 +2,7 @@
 
 Appendix for the [paper](https://arxiv.org/) to appear at [NLDB 2022](https://nldb2022.prhlt.upv.es/).
 
-#Documents
+# Zero-Shot documents
+# Few-Shot documents
+# Baselines models
+
