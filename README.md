@@ -7,10 +7,11 @@ Experimental results and results for the [paper](https://arxiv.org/) to appear a
 * English-hypotheses.md
 * Spanish-hypotheses.md
 
-2- Results
-Hyp_ZS_results_author_profiling.pdf
+2- Zero-shot results
+[Hyp_ZS_results_author_profiling.pdf](Hyp_ZS_results_author_profiling.pdf)
 
-# Few-Shot results
+# Zero-Shot and Few-Shot test set results
+Test set results of CA and SN compared to several baseline and reference approaches, 
 # Best performing system (winner)
-The test results and references of the system that ranked first at each author profiling shared task overview paper. [Best_performing_system.pdf](Best_performing_system.pdf)
+The test results and references of the system that ranked first at each author profiling shared task overview paper, [Best_performing_system.pdf](Best_performing_system.pdf)
 
