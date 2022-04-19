@@ -11,7 +11,7 @@ Experimental results and results for the [paper](https://arxiv.org/) to appear a
 [Hyp_ZS_results_author_profiling.pdf](Hyp_ZS_results_author_profiling.pdf)
 
 # Zero-Shot and Few-Shot test set results
-Test set results of CA and SN compared to several baseline and reference approaches, 
+Test set results of CA and SN compared to several baseline and reference approaches, [Test set results](Test_set_results_author_profiling.pdf)
 # Best performing system (winner)
 The test results and references of the system that ranked first at each author profiling shared task overview paper, [Best_performing_system.pdf](Best_performing_system.pdf)
 
