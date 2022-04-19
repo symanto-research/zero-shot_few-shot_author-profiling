@@ -17,5 +17,5 @@ The test results and references of the system that ranked first at each author p
 
 # Few-shot results of user-char-lr
 
-Validation results of the user-char-lr model, .
+Validation results of the user-char-lr model, [FS_user_char_lr.pdf](Few_shot_user_char_lr.pdf).
 
