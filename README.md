@@ -6,7 +6,10 @@ Appendix for the [paper](https://arxiv.org/) to appear at [NLDB 2022](https://nl
 1- Hypothesis definition
 * English-hypotheses.md
 * Spanish-hypotheses.md
+
 2- Results
+Hyp_ZS_results_author_profiling.pdf
+
 # Few-Shot documents
 # Baselines models
 
